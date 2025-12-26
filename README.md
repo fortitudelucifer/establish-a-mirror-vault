@@ -45,3 +45,5 @@ debmirror \
 ```
 
 ```
+```
+# use tmux restore the process
