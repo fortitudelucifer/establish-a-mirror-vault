@@ -47,3 +47,6 @@ debmirror \
 ```
 ```
 # use tmux restore the process
+
+# 代理的位置
+/etc/nginx/sites-enabled/mirror-gomod.conf
